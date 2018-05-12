@@ -20,6 +20,7 @@ mod_whitelist:
   - integrated-rest # 经典的集成动力学模组附属，支持网络通信
   - automated-redstone
   - inspirations
+  - Wireless Crafting Terminal #ae无线合成终端
   - teletoro
   - simulated-nights
   - mrcrayfishs-device-mod # 家具模组作者的作品
